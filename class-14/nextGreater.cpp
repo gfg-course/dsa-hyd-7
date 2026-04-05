@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-// TC: TODO
+// TC: O(n)
 // AS: O(n)
 vector<int> nextGreater(vector<int> arr) {
     stack<int> helper;
